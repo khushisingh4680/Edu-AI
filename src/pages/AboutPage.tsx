@@ -138,7 +138,7 @@ export const AboutPage: React.FC = () => {
               <div className="w-full h-full bg-white rounded-full flex items-center justify-center border-4 border-white overflow-hidden">
                 <img
                   src={dipendraProfileImg}
-                  alt="Dipendra Kumar - Full Stack Developer"
+                  alt="Khushi Singh - Full Stack Developer"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                 />
               </div>
@@ -152,7 +152,7 @@ export const AboutPage: React.FC = () => {
               </div>
               <div>
                 <h3 className="text-2xl sm:text-4xl font-black text-[#080909] font-display">
-                  Dipendra Kumar
+                  Khushi Singh
                 </h3>
                 <h4 className="text-lg font-bold text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-pink-600 mt-1">
                   Full-Stack AI Developer

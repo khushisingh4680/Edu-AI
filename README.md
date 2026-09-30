@@ -182,7 +182,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 <div align="center">
 
-**Dipendra Kumar**
+**Khushi Singh**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Edu--AI-181717?style=flat-square&logo=github)](https://github.com/khushisingh4680/Edu-AI)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dipendra-kumar-b077b9286/)
