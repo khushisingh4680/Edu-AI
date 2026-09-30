@@ -13,10 +13,9 @@ import {
   Eye,
   User,
   Mail,
-  ExternalLink,
 } from "lucide-react";
 import { Github, Linkedin } from "../components/SocialIcons";
-import dipendraProfileImg from "../assets/images/dipendra-profile.jpg";
+import khushiProfileImg from "../assets/images/Khushi-profile.jpeg";
 
 export const AboutPage: React.FC = () => {
   return (
@@ -137,7 +136,7 @@ export const AboutPage: React.FC = () => {
             <div className="w-32 h-32 sm:w-48 sm:h-48 shrink-0 bg-gradient-to-tr from-indigo-500 via-purple-500 to-pink-500 p-1.5 rounded-full shadow-2xl relative group">
               <div className="w-full h-full bg-white rounded-full flex items-center justify-center border-4 border-white overflow-hidden">
                 <img
-                  src={dipendraProfileImg}
+                  src={khushiProfileImg}
                   alt="Khushi Singh - Full Stack Developer"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                 />
@@ -181,7 +180,7 @@ export const AboutPage: React.FC = () => {
                     <Github className="w-4 h-4" />
                   </a>
                   <a
-                    href="https://www.linkedin.com/in/dipendra-kumar-b077b9286/"
+                    href="https://www.linkedin.com/in/khushi-singh-016802346"
                     target="_blank"
                     rel="noreferrer"
                     className="w-10 h-10 rounded-full bg-slate-100 hover:bg-indigo-50 flex items-center justify-center text-slate-700 hover:text-indigo-600 transition-colors border border-slate-200"
@@ -189,19 +188,10 @@ export const AboutPage: React.FC = () => {
                     <Linkedin className="w-4 h-4" />
                   </a>
                   <a
-                    href="mailto:dipendrak299@gmail.com"
+                    href="mailto:khushisingh.happy2001@gmail.com"
                     className="w-10 h-10 rounded-full bg-slate-100 hover:bg-pink-50 flex items-center justify-center text-slate-700 hover:text-pink-600 transition-colors border border-slate-200"
                   >
                     <Mail className="w-4 h-4" />
-                  </a>
-                  <a
-                    href="https://portfolio-dipendra.vercel.app/"
-                    target="_blank"
-                    rel="noreferrer"
-                    className="px-4 h-10 rounded-full bg-slate-100 hover:bg-indigo-600 flex items-center justify-center text-slate-700 hover:text-white transition-colors border border-slate-200 text-xs font-bold gap-2"
-                  >
-                    <span>Portfolio</span>
-                    <ExternalLink className="w-3.5 h-3.5" />
                   </a>
                 </div>
               </div>

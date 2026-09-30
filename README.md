@@ -185,9 +185,8 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 **Khushi Singh**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Edu--AI-181717?style=flat-square&logo=github)](https://github.com/khushisingh4680/Edu-AI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dipendra-kumar-b077b9286/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-dipendra.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-dipendrak299@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dipendrak299@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/khushi-singh-016802346)
+[![Email](https://img.shields.io/badge/Email-ashmitharyana%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khushisingh.happy2001@gmail.com)
 
 </div>
 

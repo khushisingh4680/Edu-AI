@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowUpRight, ArrowUp, Sparkles, MessageCircle, Mail, ExternalLink } from 'lucide-react';
+import { ArrowUpRight, ArrowUp, Sparkles, MessageCircle, Mail } from 'lucide-react';
 import { Github, Twitter, Linkedin } from './SocialIcons';
 import footerCharacterImg from '../assets/images/footer_creative_character_1790345423087.jpg';
 
@@ -171,7 +171,7 @@ export const Footer: React.FC = () => {
                 <Github className="w-4 h-4" />
               </a>
               <a
-                href="https://www.linkedin.com/in/dipendra-kumar-b077b9286/"
+                href="https://www.linkedin.com/in/khushi-singh-016802346"
                 target="_blank"
                 rel="noreferrer"
                 className="w-8 h-8 rounded-full bg-white border border-[#DFE4F2] flex items-center justify-center text-[#080909] hover:bg-blue-600 hover:text-white transition-colors"
@@ -180,21 +180,11 @@ export const Footer: React.FC = () => {
                 <Linkedin className="w-4 h-4" />
               </a>
               <a
-                href="mailto:dipendrak299@gmail.com"
+                href="mailto:khushisingh.happy2001@gmail.com"
                 className="w-8 h-8 rounded-full bg-white border border-[#DFE4F2] flex items-center justify-center text-[#080909] hover:bg-pink-600 hover:text-white transition-colors"
                 aria-label="Email"
               >
                 <Mail className="w-4 h-4" />
-              </a>
-              <a
-                href="https://portfolio-dipendra.vercel.app/"
-                target="_blank"
-                rel="noreferrer"
-                className="px-3 h-8 rounded-full bg-white border border-[#DFE4F2] flex items-center justify-center text-[#080909] hover:bg-[#7C3AED] hover:text-white transition-colors gap-1.5"
-                aria-label="Portfolio"
-              >
-                <span className="text-xs font-bold font-display">Portfolio</span>
-                <ExternalLink className="w-3 h-3" />
               </a>
             </div>
           </div>
